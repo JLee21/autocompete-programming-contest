@@ -51,9 +51,13 @@ const rl = readline.createInterface({
   terminal: false
 });
 
-rl.on('line', function (line) {
-  console.log(line)
-});
+const lines = []
+rl.on('line', (line) => lines.push(line));
+rl.on('close', (line) => process(lines));
+
+function process(lines) {
+  console.log(lines)
+}
 ```
 
 <div style="page-break-after: always;"></div>
