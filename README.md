@@ -1,3 +1,6 @@
+# AutoCompete
+This repo has moved to: <https://github.com/geluso/autocompete-programming-contest>
+
 ## Rules
 * Up to three people per team
 * Only one computer per team
