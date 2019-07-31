@@ -1,5 +1,6 @@
-# AutoCompete
-This repo has moved to: <https://github.com/geluso/autocompete-programming-contest>
+# AutoCompete, a Programming Contest
+AutoCompete is a monthly programming contest in Seattle, WA. The format of the
+contest is inspired by ACM programming contests.
 
 ## Rules
 * Up to three people per team
